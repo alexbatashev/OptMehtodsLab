@@ -1,0 +1,131 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/alex/RiderProjects/OptMehtodsLab/ParserTest/ParserTest.fsproj": {}
+  },
+  "projects": {
+    "/home/alex/RiderProjects/OptMehtodsLab/Parser/Parser.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/alex/RiderProjects/OptMehtodsLab/Parser/Parser.fsproj",
+        "projectName": "Parser",
+        "projectPath": "/home/alex/RiderProjects/OptMehtodsLab/Parser/Parser.fsproj",
+        "packagesPath": "/home/alex/.nuget/packages/",
+        "outputPath": "/home/alex/RiderProjects/OptMehtodsLab/Parser/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/alex/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[4.7.0, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/alex/RiderProjects/OptMehtodsLab/ParserTest/ParserTest.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/alex/RiderProjects/OptMehtodsLab/ParserTest/ParserTest.fsproj",
+        "projectName": "ParserTest",
+        "projectPath": "/home/alex/RiderProjects/OptMehtodsLab/ParserTest/ParserTest.fsproj",
+        "packagesPath": "/home/alex/.nuget/packages/",
+        "outputPath": "/home/alex/RiderProjects/OptMehtodsLab/ParserTest/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/alex/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/home/alex/RiderProjects/OptMehtodsLab/Parser/Parser.fsproj": {
+                "projectPath": "/home/alex/RiderProjects/OptMehtodsLab/Parser/Parser.fsproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[4.7.0, )",
+              "generatePathProperty": true
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.4.0, )",
+              "generatePathProperty": true
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.15.1, )",
+              "generatePathProperty": true
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
