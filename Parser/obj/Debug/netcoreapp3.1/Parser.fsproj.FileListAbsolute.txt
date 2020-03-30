@@ -1,8 +1,0 @@
-/home/alex/RiderProjects/OptMehtodsLab/Parser/bin/Debug/netcoreapp3.1/Parser.deps.json
-/home/alex/RiderProjects/OptMehtodsLab/Parser/bin/Debug/netcoreapp3.1/Parser.dll
-/home/alex/RiderProjects/OptMehtodsLab/Parser/bin/Debug/netcoreapp3.1/Parser.pdb
-/home/alex/RiderProjects/OptMehtodsLab/Parser/obj/Debug/netcoreapp3.1/Parser.fsprojAssemblyReference.cache
-/home/alex/RiderProjects/OptMehtodsLab/Parser/obj/Debug/netcoreapp3.1/Parser.AssemblyInfoInputs.cache
-/home/alex/RiderProjects/OptMehtodsLab/Parser/obj/Debug/netcoreapp3.1/Parser.AssemblyInfo.fs
-/home/alex/RiderProjects/OptMehtodsLab/Parser/obj/Debug/netcoreapp3.1/Parser.dll
-/home/alex/RiderProjects/OptMehtodsLab/Parser/obj/Debug/netcoreapp3.1/Parser.pdb
