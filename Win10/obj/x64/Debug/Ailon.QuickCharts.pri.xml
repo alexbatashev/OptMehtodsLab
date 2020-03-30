@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="Ailon.QuickCharts" version="1.0" primary="true">
+		<Qualifiers/>
+		<ResourceMapSubtree name="Files">
+			<ResourceMapSubtree name="Ailon.QuickCharts">
+				<NamedResource name="Ailon.QuickCharts.xr.xml" uri="ms-resource://Ailon.QuickCharts/Files/Ailon.QuickCharts/Ailon.QuickCharts.xr.xml">
+					<Candidate type="Path">
+						<Value>Ailon.QuickCharts\Ailon.QuickCharts.xr.xml</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="AreaGraph.xbf" uri="ms-resource://Ailon.QuickCharts/Files/Ailon.QuickCharts/Themes/AreaGraph.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Balloon.xbf" uri="ms-resource://Ailon.QuickCharts/Files/Ailon.QuickCharts/Themes/Balloon.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="CategoryAxis.xbf" uri="ms-resource://Ailon.QuickCharts/Files/Ailon.QuickCharts/Themes/CategoryAxis.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ColumnGraph.xbf" uri="ms-resource://Ailon.QuickCharts/Files/Ailon.QuickCharts/Themes/ColumnGraph.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Generic.xbf" uri="ms-resource://Ailon.QuickCharts/Files/Ailon.QuickCharts/Themes/Generic.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Indicator.xbf" uri="ms-resource://Ailon.QuickCharts/Files/Ailon.QuickCharts/Themes/Indicator.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Legend.xbf" uri="ms-resource://Ailon.QuickCharts/Files/Ailon.QuickCharts/Themes/Legend.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="LineGraph.xbf" uri="ms-resource://Ailon.QuickCharts/Files/Ailon.QuickCharts/Themes/LineGraph.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="PieChart.xbf" uri="ms-resource://Ailon.QuickCharts/Files/Ailon.QuickCharts/Themes/PieChart.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="SerialChart.xbf" uri="ms-resource://Ailon.QuickCharts/Files/Ailon.QuickCharts/Themes/SerialChart.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Slice.xbf" uri="ms-resource://Ailon.QuickCharts/Files/Ailon.QuickCharts/Themes/Slice.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ValueAxis.xbf" uri="ms-resource://Ailon.QuickCharts/Files/Ailon.QuickCharts/Themes/ValueAxis.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ValueGrid.xbf" uri="ms-resource://Ailon.QuickCharts/Files/Ailon.QuickCharts/Themes/ValueGrid.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

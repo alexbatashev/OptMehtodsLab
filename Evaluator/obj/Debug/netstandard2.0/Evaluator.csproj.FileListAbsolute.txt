@@ -1,0 +1,9 @@
+C:\Users\Alexander\Documents\GitHub\OptMethodsLab\Evaluator\bin\Debug\netstandard2.0\Evaluator.deps.json
+C:\Users\Alexander\Documents\GitHub\OptMethodsLab\Evaluator\bin\Debug\netstandard2.0\Evaluator.dll
+C:\Users\Alexander\Documents\GitHub\OptMethodsLab\Evaluator\obj\Debug\netstandard2.0\Evaluator.AssemblyInfoInputs.cache
+C:\Users\Alexander\Documents\GitHub\OptMethodsLab\Evaluator\obj\Debug\netstandard2.0\Evaluator.AssemblyInfo.cs
+C:\Users\Alexander\Documents\GitHub\OptMethodsLab\Evaluator\bin\Debug\netstandard2.0\Evaluator.pdb
+C:\Users\Alexander\Documents\GitHub\OptMethodsLab\Evaluator\obj\Debug\netstandard2.0\Evaluator.csprojAssemblyReference.cache
+C:\Users\Alexander\Documents\GitHub\OptMethodsLab\Evaluator\obj\Debug\netstandard2.0\Evaluator.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Documents\GitHub\OptMethodsLab\Evaluator\obj\Debug\netstandard2.0\Evaluator.dll
+C:\Users\Alexander\Documents\GitHub\OptMethodsLab\Evaluator\obj\Debug\netstandard2.0\Evaluator.pdb

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Roots >
+  <Roots.RootTypes>
+    <RootType FullName="Windows.UI.Xaml.Application" />
+    <RootType FullName="Windows.UI.Xaml.Controls.Page">
+      <RootProperty Name="RequestedTheme" />
+      <RootProperty Name="Content" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.SplitView">
+      <RootProperty Name="DisplayMode" />
+      <RootProperty Name="IsPaneOpen" />
+      <RootProperty Name="PaneBackground" />
+      <RootProperty Name="Pane" />
+      <RootProperty Name="Content" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.DirectUI.ProxyTypes.StaticResourceExtension" />
+    <RootType FullName="Windows.UI.Xaml.Controls.StackPanel">
+      <RootProperty Name="Spacing" />
+      <RootProperty Name="Orientation" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="IsTapEnabled" />
+      <RootProperty Name="IsRightTapEnabled" />
+      <RootProperty Name="IsHoldingEnabled" />
+      <RootProperty Name="IsDoubleTapEnabled" />
+      <RootProperty Name="Children" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.TextBox">
+      <RootProperty Name="Text" />
+      <RootProperty Name="TextWrapping" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="PlaceholderText" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Button">
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Content" />
+      <RootEvent Name="Click" />
+    </RootType>
+    <RootType FullName="WinRTXamlToolkit.Controls.DataVisualization.Charting.Chart" />
+    <RootType FullName="Win10.MainPage" />
+  </Roots.RootTypes>
+</Roots>

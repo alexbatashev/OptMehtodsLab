@@ -4714,24 +4714,31 @@
     ]
   },
   "packageFolders": {
-    "/home/alex/.nuget/packages/": {}
+    "C:\\Users\\Alexander\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/alex/RiderProjects/OptMehtodsLab/OptMethodsLab/OptMethodsLab.csproj",
+      "projectUniqueName": "C:\\Users\\Alexander\\Documents\\GitHub\\OptMethodsLab\\OptMethodsLab\\OptMethodsLab.csproj",
       "projectName": "OptMethodsLab",
-      "projectPath": "/home/alex/RiderProjects/OptMehtodsLab/OptMethodsLab/OptMethodsLab.csproj",
-      "packagesPath": "/home/alex/.nuget/packages/",
-      "outputPath": "/home/alex/RiderProjects/OptMehtodsLab/OptMethodsLab/obj/",
+      "projectPath": "C:\\Users\\Alexander\\Documents\\GitHub\\OptMethodsLab\\OptMethodsLab\\OptMethodsLab.csproj",
+      "packagesPath": "C:\\Users\\Alexander\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Alexander\\Documents\\GitHub\\OptMethodsLab\\OptMethodsLab\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "/home/alex/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Alexander\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -4768,7 +4775,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
